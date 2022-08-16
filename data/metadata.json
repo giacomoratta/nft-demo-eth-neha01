@@ -1,0 +1,11 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    }
+  ],
+  "description": "Hugo description bla bla",
+  "image": "https://ipfs.io/ipfs/QmdCgP9UpYcCFVDjPX3RKWy8qhRmuDTwTC8xAZXVUsYYjN",
+  "name": "Hugo file"
+}
